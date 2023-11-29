@@ -1,0 +1,1 @@
+This project provides a comprehensive Maze Solver and Generator implemented in C . The code includes algorithms for generating mazes and solving them. This project has been made by impleementing several data structures. 
